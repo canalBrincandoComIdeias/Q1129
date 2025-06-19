@@ -1,0 +1,26 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Régua 5V
+*Date=11:40:43
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;14.4504;-5.00343;-90;Bottom;J4
+2;;;41.6693;-4.91646;0;Bottom;IMG1
+3;0.030;3 mm [THT];3.81525;-5.0109;-90;Bottom;LED1
+4;;;37.1563;-8.40179;0;Bottom;TXT1
+5;;THT;8.82193;-5.00343;-90;Bottom;J3
+6;470;THT;9.47671;-7.62639;0;Bottom;R1
+7;;THT;37.1373;-4.91328;0;Bottom;J1
+8;;THT;31.3357;-5.00343;-90;Bottom;J7
+9;;THT;20.079;-5.00343;-90;Bottom;J5
+10;;;37.0886;-1.0571;0;Bottom;TXT1
+11;;THT;25.7073;-5.00343;-90;Bottom;J6
