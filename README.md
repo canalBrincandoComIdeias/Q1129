@@ -12,9 +12,13 @@ Projeto do Vídeo Q1129  Série **_Módulos MontTUDO_** patrocinada por **_Creal
 ⚙️ Impressora utilizada na playlist: Ender-3 V3 KE
 
 ⭐ Compre filamento Creality: [CLIQUE AQUI](LINK)
+
 ⭐ Saiba mais sobre Ender-3 V3 KE：[CLIQUE AQUI](LINK)
+
 ⭐ Compre Ender-3 V3 KE : [CLIQUE AQUI](https://bit.ly/4i8CVWX) 
+
 ⭐ Saiba mais sobre Ender-3 V3 SE：[CLIQUE AQUI](https://bit.ly/3TUK3xU)
+
 ⭐ Compre Ender-3 V3 SE：[CLIQUE AQUI](https://bit.ly/4hHGwev)
 
  #ender3v3ke #ender3v3se #ender3 #ender #creality
